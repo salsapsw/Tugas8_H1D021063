@@ -1,7 +1,7 @@
-![image](https://github.com/user-attachments/assets/775a6027-a327-4cb5-a843-a1b2f8f75ab2)﻿# Tugas8_H1D021063
+# Tugas8_H1D021063
 
 # SALSABILLA PSW
-![image](https://github.com/user-attachments/assets/8c9383a0-e7b2-46dc-83ce-665d3b3e9484)
+![image](https://github.com/user-attachments/assets/17bcb78e-dd79-40fc-83b4-e8e2b6a63b23)
 
 ![image](https://github.com/user-attachments/assets/1e633e3e-04f8-428c-ac7e-2c3af017fb58)
 
