@@ -2,9 +2,9 @@
 
 # SALSABILLA PSW
 
-1. ![image](https://github.com/user-attachments/assets/d5a65db9-d998-4938-9475-131823b771fc)
-
-   Klik tambah mahasiswa untuk menambahkan nama mahasiswa dan jurusan
+1. Klik tambah mahasiswa untuk menambahkan nama mahasiswa dan jurusan
+   
+   ![image](https://github.com/user-attachments/assets/d5a65db9-d998-4938-9475-131823b771fc)
    
 3. ![image](https://github.com/user-attachments/assets/17bcb78e-dd79-40fc-83b4-e8e2b6a63b23)
 
